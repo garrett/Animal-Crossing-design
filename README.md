@@ -1,4 +1,4 @@
-Animal-Crossing-design ======================
+# Animal-Crossing-design
 
 Designs made with these templates and palette are intended for use with
 [Animal Xing Designer](https://play.google.com/store/apps/details?id=net.nefastudio.android.dmoridesigner)
